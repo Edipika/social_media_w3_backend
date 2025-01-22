@@ -51,7 +51,7 @@ const getUserData = async (req, res) => {
     }
 };
 
-
+//this is a comment added to test 
 
 module.exports = {
     adduser,getUserData
